@@ -1,0 +1,279 @@
+canonical_identifier: bkk:krp/KR6q0459/v1
+canonical_location: https://kanripo.org/bkk/KR6q0459/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 明州天童景德禪寺宏智覺禪師語錄
+  identifiers:
+    alt_id:
+    - J32nB272
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J32/J32nB272.xml
+    old_id: J32nB272
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0459_000.yaml, hash: 'sha256:037f634825242884b14b66894bf40fc2b570c2f80805681a11b9b405a09f3f83'}
+  - {seq: 1, filename: KR6q0459_001.yaml, hash: 'sha256:ec58ce43fde7bab7baf0b10e0c99fde9bcf4ecca9bfa6979b16cf69a3b52dfa1'}
+  - {seq: 2, filename: KR6q0459_002.yaml, hash: 'sha256:39aa0f43631bd16d2e60f9721b499b2ec738b79a1f98f175439ea96d38d3bda6'}
+  - {seq: 3, filename: KR6q0459_003.yaml, hash: 'sha256:754d1acdfd13464bb274ca5268256a319fa413a7053c5050856dd5de51ec1276'}
+  - {seq: 4, filename: KR6q0459_004.yaml, hash: 'sha256:93dc6c26767d503e4c18b660d948f3806234dc032462942055f1efa70660c443'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0459_000.markers.yaml, hash: 'sha256:78fc18d0e4e34e2e9b0fdf628254c4774ee064ed22cee558ebc0d49f71f72230'}
+  - {seq: 1, role: markers, filename: assets/KR6q0459_001.markers.yaml, hash: 'sha256:52b81bd65d313a00b2fa6e347ab5055c3657eaa4a16b586b5d935edc912f27c4'}
+  - {seq: 2, role: markers, filename: assets/KR6q0459_002.markers.yaml, hash: 'sha256:c61757e29a83c4c9a049107377a28d0aa63e7f46595b8c5da81e59b2c2073557'}
+  - {seq: 3, role: markers, filename: assets/KR6q0459_003.markers.yaml, hash: 'sha256:1b213ca57bcbd42cb0f069fd8fb1b9d02804066063eef35f2c49216551943cf9'}
+  - {seq: 4, role: markers, filename: assets/KR6q0459_004.markers.yaml, hash: 'sha256:b80243b334e44d24c218a4070eb84fbd41b8764a2e3508ba299580164cb3e1a1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0459_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0459_J_000-mulu-2
+    span:
+    - front
+    - 189
+    - 189
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0459_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 5775
+  label: 明州天童景德禪寺宏智覺禪師語錄卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0459_J_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0459_J_001-mulu-2
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 晚參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0459_J_001-mulu-3
+    span:
+    - body
+    - 5433
+    - 5433
+  label: 示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0459_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 7245
+  label: 明州天童景德禪寺宏智覺禪師語錄卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0459_J_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0459_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 10883
+  label: 明州天童景德禪寺宏智覺禪師語錄卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0459_J_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 6826
+  label: 明州天童景德禪寺宏智覺禪師語錄卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-2
+    span:
+    - body
+    - 698
+    - 698
+  label: 四轉靈機
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-3
+    span:
+    - body
+    - 854
+    - 854
+  label: 崇先真歇了禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-4
+    span:
+    - body
+    - 2634
+    - 2634
+  label: 大用庵銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-5
+    span:
+    - body
+    - 2957
+    - 2957
+  label: 題衛寺湛六堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-6
+    span:
+    - body
+    - 3019
+    - 3019
+  label: 治塗田
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-7
+    span:
+    - body
+    - 3078
+    - 3078
+  label: 示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-8
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 僧堂記
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-9
+    span:
+    - body
+    - 3756
+    - 3756
+  label: 行實
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-10
+    span:
+    - body
+    - 4515
+    - 4515
+  label: 塔銘(有序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-11
+    span:
+    - body
+    - 6057
+    - 6057
+  label: 祭文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-12
+    span:
+    - body
+    - 6517
+    - 6517
+  label: 大慧杲禪師題師像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0459_J_004-mulu-13
+    span:
+    - body
+    - 6627
+    - 6627
+  label: 陸游題師像讚
+  type: mulu
+  level: 1
+hash: sha256:2d98997dc37fab16967bb9136f183d0044d3c032addff6abe21d7d16cbb23c69
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
