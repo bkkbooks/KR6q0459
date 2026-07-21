@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0459/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 天童宏智覺禪師語録序洞上宗風自同安兩世至芙蓉長蘆卓然今古天童宏智禪師與大慧杲真歇了同時智住天童慧住育王其唱酬入滅事頗著神異紹興迄今殆數百年語句散亡罕睹全録晴雲法兄於他家雜見者廣為搜緝勒成一卷昔靈山法藏傳彼貝多韶陽語句得自衣裓此皆目擊口宣借書在手晴兄默契古人探微集逸能使太白山巔自開生面固知金針玉線迥異尋常陽燧取日方諸印月也洞山宗旨持以問之此集功位宛然新豐尚在矣逸亭居士徐繼恩拜題明州天童景德禪寺宏智覺禪師語録目次卷一上堂晚參示衆卷二舉古卷三頌古卷四機緣塔銘銘偈記
   hash: sha256:b865c9447dba93ec49e234f9858e46b631593955743f7d525968436a292e338e
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0459_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 189, content: 目次, id: KR6q0459_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 明州天童景德禪寺宏智覺禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J32/J32nB272.xml
     old_id: J32nB272
-hash: sha256:037f634825242884b14b66894bf40fc2b570c2f80805681a11b9b405a09f3f83
+hash: sha256:db40d947fe29f38cfeb053c85c926a5acc089eb8d927e5aaf780cb72a8e4e48e
